@@ -1,6 +1,6 @@
 ## Welcome!
 
-#### Here is a quick and simple list of what I've got up on GitHub:
+##### Here is a quick and simple list of what I've got up on GitHub:
 
 - Share Trading Game - 
 [Repo](https://github.com/benncarroll/share-trading-game),
@@ -21,6 +21,8 @@
 [Project Euler](http://www.projecteuler.net)
 
 _Enjoy!_
+
+---
 
 > Here by accident?
 >
