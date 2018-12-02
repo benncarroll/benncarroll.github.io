@@ -2,6 +2,10 @@
 
 ##### Here is a quick and simple list of what I've got up on GitHub:
 
+- BlackJack - 
+[Repo](https://github.com/benncarroll/blackjack-2018),
+[Live](https://bencarroll.tech/projects/blackjack/)
+
 - Share Trading Game - 
 [Repo](https://github.com/benncarroll/share-trading-game),
 [Live](https://benncarroll.github.io/share-trading-game)
